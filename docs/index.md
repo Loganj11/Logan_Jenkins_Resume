@@ -8,7 +8,7 @@ title: Project 6 Git Resume
 Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="Jen19014@byui.edu">Jen19014@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/logan-jenkins-0912y/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -29,8 +29,8 @@ Organized and dependable candidate successful at managing multiple priorities wi
 
 ## Education:
 
-`2019-2023`
 __Brigham Young University-Idaho__, Rexburg, ID
+`2019-2023`
 
 - Earned GPA of 3.6
 - Corporate Finance Society Member
