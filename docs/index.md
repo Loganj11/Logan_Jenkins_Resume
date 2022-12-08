@@ -41,8 +41,8 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 ### Data & Financial Analyst
 
+_Point Quest Inc., Elk Grove, CA_
 `April 2022 - September 2022`
-__Point Quest Inc.__, Elk Grove, CA
 
 - Assisted Controller with reporting templates for 2022 Board & Management Reports
 - Worked closely with Controller & CFO on departmental projects and objectives
