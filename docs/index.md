@@ -18,11 +18,14 @@ Organized and dependable candidate successful at managing multiple priorities wi
 
 ## Skills
 
-• MS Office                           • Attention to Detail
-• Experienced in Python, SQL, R     • Organization and Time Management
-• Self-Motivated                      • Analytical and Critical Thinking
-• Dependable and Responsible          • Teamwork and Collaboration
-
+• MS Office
+• Experienced in Python, SQL, R
+• Self-Motivated
+• Dependable and Responsible
+• Attention to Detail
+• Organization and Time Management
+• Analytical and Critical Thinking
+• Teamwork and Collaboration
 
 ## Education:
 
