@@ -4,17 +4,17 @@ title: Project 6 Git Resume
 ---
 # Logan Jenkins
 
-## Proffesional Summary:
-Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
-
 <div id="webaddress">
 <a href="Jen19014@byui.edu">Jen19014@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/logan-jenkins-0912y/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/Loganj11/Logan_Jenkins_Resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+## Proffesional Summary:
+Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
 
 ## Skills
 
