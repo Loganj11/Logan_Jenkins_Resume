@@ -56,8 +56,8 @@ _Point Quest Inc., Elk Grove, CA_
 
 ### Department Manager
 
+_Albertsons Companies Inc., Rexburg, ID_
 `April 2020 - March 2021`
-__Albertsons Companies Inc.__, Rexburg, ID
 
 - Established a new department for curbside delivery for up to $90K in monthly sales
 - Oversaw a team of 5 sales associates
