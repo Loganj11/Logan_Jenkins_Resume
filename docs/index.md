@@ -47,8 +47,8 @@ _Point Quest Inc., Elk Grove, CA_
 - Assisted Controller with reporting templates for 2022 Board & Management Reports
 - Worked closely with Controller & CFO on departmental projects and objectives
 - Set up & testing of iDashboards
--   Published newly developed corporate KPIs via this Web-based platform
--   Scripted and collated data to develop meaningful financial and operational metrics
+  - Published newly developed corporate KPIs via this Web-based platform
+  - Scripted and collated data to develop meaningful financial and operational metrics
 -   Created numerous views and presentations of data for maximum clarity and insights
 - Scanned and saved documents in database to keep records of essential organizational information
 - Prepared source data for computer entry by compiling and sorting information
